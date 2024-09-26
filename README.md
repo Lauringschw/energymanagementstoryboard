@@ -47,3 +47,16 @@ User testing was conducted to compare the manual and AI-assisted versions of the
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/9eb1bd83-3709-46cc-b12e-261092c6b836)
+![image](https://github.com/user-attachments/assets/f27b9918-ea17-40b5-b843-3523b4c06f4a)
+![image](https://github.com/user-attachments/assets/30ea78d8-f53e-4050-b415-99acaacaa60f)
+![image](https://github.com/user-attachments/assets/97238e3c-fc2b-4352-88cd-108bd26b6286)
+![image](https://github.com/user-attachments/assets/3dc300cb-9e81-4fa1-a382-ca458bff5bb9)
+![image](https://github.com/user-attachments/assets/c08848a4-b588-4a86-a42c-fa7bc634c7e1)
+![image](https://github.com/user-attachments/assets/c1f6ab96-135b-4cab-bcfd-bb7a5fc39bfe)
+![image](https://github.com/user-attachments/assets/a535f3e9-c517-413b-8edd-d7f17ba38cf2)
+![image](https://github.com/user-attachments/assets/789f3c07-7ee9-4fa3-9c65-0fc6812c9301)
+
+
+
+
