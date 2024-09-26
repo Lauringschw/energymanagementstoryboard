@@ -7,10 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F01695A2C98C57C00A8F7F8 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0169592C98C57C00A8F7F8 /* Home.swift */; };
+		9F01695C2C98C74900A8F7F8 /* HomeStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F01695B2C98C74900A8F7F8 /* HomeStoryBoard.storyboard */; };
+		9F67ED212CA00EE100E5140B /* stop.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9F67ED202CA00EDD00E5140B /* stop.txt */; };
+		9F9740A62C9CDF2400D2FA3C /* ThermostatModel.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9F9740A52C9CDF2400D2FA3C /* ThermostatModel.mlmodel */; };
+		9FA0BBB82C98A73500637FE0 /* NoaiThermostat.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FA0BBB72C98A73500637FE0 /* NoaiThermostat.storyboard */; };
+		9FA0BBBC2C98A7F700637FE0 /* NoAiThermoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA0BBBB2C98A7F700637FE0 /* NoAiThermoView.swift */; };
+		9FB125902C9A111000032AF3 /* AiThermoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB1258F2C9A110700032AF3 /* AiThermoView.swift */; };
+		9FB125922C9A112100032AF3 /* AiThermostat.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FB125912C9A112100032AF3 /* AiThermostat.storyboard */; };
+		9FB125942C9AB64200032AF3 /* AiThermostatSettings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FB125932C9AB64200032AF3 /* AiThermostatSettings.storyboard */; };
+		9FB125962C9AB64D00032AF3 /* AiThermostatSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB125952C9AB64700032AF3 /* AiThermostatSettingsView.swift */; };
+		9FB6E2E12CA5D4C1002DAB2A /* SmartSuggestionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB6E2E02CA5D4C1002DAB2A /* SmartSuggestionsViewController.swift */; };
+		9FB6E2E52CA5D4F8002DAB2A /* SmartSuggestionStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FB6E2E42CA5D4F8002DAB2A /* SmartSuggestionStoryBoard.storyboard */; };
+		9FB6E2E72CA5D550002DAB2A /* circleGreen-Photoroom.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FB6E2E62CA5D550002DAB2A /* circleGreen-Photoroom.png */; };
+		9FC2DC3B2C9CD52C00725F3F /* save.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9FC2DC3A2C9CD52800725F3F /* save.txt */; };
+		9FD5BD1A2C980EFF007A9754 /* Thermostat.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FD5BD192C980EFF007A9754 /* Thermostat.storyboard */; };
+		9FDC8ED42C9B7EB00093B7D2 /* FileUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FDC8ED32C9B7EB00093B7D2 /* FileUtility.swift */; };
 		9FE8EFF42C976F0D00EB2AFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE8EFF32C976F0D00EB2AFF /* AppDelegate.swift */; };
 		9FE8EFF62C976F0D00EB2AFF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE8EFF52C976F0D00EB2AFF /* SceneDelegate.swift */; };
 		9FE8EFF82C976F0D00EB2AFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE8EFF72C976F0D00EB2AFF /* ViewController.swift */; };
-		9FE8EFFB2C976F0D00EB2AFF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9FE8EFFA2C976F0D00EB2AFF /* Base */; };
 		9FE8EFFD2C976F0E00EB2AFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FE8EFFC2C976F0E00EB2AFF /* Assets.xcassets */; };
 		9FE8F0002C976F0E00EB2AFF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9FE8EFFF2C976F0E00EB2AFF /* Base */; };
 		9FE8F00B2C976F0E00EB2AFF /* energymanagementstoryboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE8F00A2C976F0E00EB2AFF /* energymanagementstoryboardTests.swift */; };
@@ -36,13 +51,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F0169592C98C57C00A8F7F8 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		9F01695B2C98C74900A8F7F8 /* HomeStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = HomeStoryBoard.storyboard; sourceTree = "<group>"; };
+		9F67ED202CA00EDD00E5140B /* stop.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = stop.txt; sourceTree = "<group>"; };
+		9F9740A52C9CDF2400D2FA3C /* ThermostatModel.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ThermostatModel.mlmodel; sourceTree = "<group>"; };
+		9FA0BBB72C98A73500637FE0 /* NoaiThermostat.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = NoaiThermostat.storyboard; sourceTree = "<group>"; };
+		9FA0BBBB2C98A7F700637FE0 /* NoAiThermoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoAiThermoView.swift; sourceTree = "<group>"; };
+		9FB1258F2C9A110700032AF3 /* AiThermoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AiThermoView.swift; sourceTree = "<group>"; };
+		9FB125912C9A112100032AF3 /* AiThermostat.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AiThermostat.storyboard; sourceTree = "<group>"; };
+		9FB125932C9AB64200032AF3 /* AiThermostatSettings.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AiThermostatSettings.storyboard; sourceTree = "<group>"; };
+		9FB125952C9AB64700032AF3 /* AiThermostatSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AiThermostatSettingsView.swift; sourceTree = "<group>"; };
+		9FB6E2E02CA5D4C1002DAB2A /* SmartSuggestionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartSuggestionsViewController.swift; sourceTree = "<group>"; };
+		9FB6E2E42CA5D4F8002DAB2A /* SmartSuggestionStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SmartSuggestionStoryBoard.storyboard; sourceTree = "<group>"; };
+		9FB6E2E62CA5D550002DAB2A /* circleGreen-Photoroom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circleGreen-Photoroom.png"; sourceTree = "<group>"; };
+		9FC2DC3A2C9CD52800725F3F /* save.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = save.txt; sourceTree = "<group>"; };
+		9FD5BD192C980EFF007A9754 /* Thermostat.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Thermostat.storyboard; sourceTree = "<group>"; };
+		9FDC8ED32C9B7EB00093B7D2 /* FileUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileUtility.swift; sourceTree = "<group>"; };
 		9FE8EFF02C976F0D00EB2AFF /* energymanagementstoryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = energymanagementstoryboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE8EFF32C976F0D00EB2AFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FE8EFF52C976F0D00EB2AFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9FE8EFF72C976F0D00EB2AFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9FE8EFFA2C976F0D00EB2AFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FE8EFFC2C976F0E00EB2AFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9FE8EFFF2C976F0E00EB2AFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9FE8EFFF2C976F0E00EB2AFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FE8F0012C976F0E00EB2AFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FE8F0062C976F0E00EB2AFF /* energymanagementstoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = energymanagementstoryboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE8F00A2C976F0E00EB2AFF /* energymanagementstoryboardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = energymanagementstoryboardTests.swift; sourceTree = "<group>"; };
@@ -99,13 +129,28 @@
 		9FE8EFF22C976F0D00EB2AFF /* energymanagementstoryboard */ = {
 			isa = PBXGroup;
 			children = (
+				9FA0BBBB2C98A7F700637FE0 /* NoAiThermoView.swift */,
+				9FB1258F2C9A110700032AF3 /* AiThermoView.swift */,
+				9F67ED202CA00EDD00E5140B /* stop.txt */,
+				9FC2DC3A2C9CD52800725F3F /* save.txt */,
+				9FDC8ED32C9B7EB00093B7D2 /* FileUtility.swift */,
+				9F0169592C98C57C00A8F7F8 /* Home.swift */,
 				9FE8EFF32C976F0D00EB2AFF /* AppDelegate.swift */,
+				9FB6E2E02CA5D4C1002DAB2A /* SmartSuggestionsViewController.swift */,
 				9FE8EFF52C976F0D00EB2AFF /* SceneDelegate.swift */,
+				9FB125952C9AB64700032AF3 /* AiThermostatSettingsView.swift */,
 				9FE8EFF72C976F0D00EB2AFF /* ViewController.swift */,
-				9FE8EFF92C976F0D00EB2AFF /* Main.storyboard */,
+				9FE8F0232C9773CF00EB2AFF /* image */,
 				9FE8EFFC2C976F0E00EB2AFF /* Assets.xcassets */,
-				9FE8EFFE2C976F0E00EB2AFF /* LaunchScreen.storyboard */,
+				9FB6E2E42CA5D4F8002DAB2A /* SmartSuggestionStoryBoard.storyboard */,
+				9FE8EFFE2C976F0E00EB2AFF /* Main.storyboard */,
+				9F01695B2C98C74900A8F7F8 /* HomeStoryBoard.storyboard */,
+				9FB125912C9A112100032AF3 /* AiThermostat.storyboard */,
+				9FA0BBB72C98A73500637FE0 /* NoaiThermostat.storyboard */,
+				9FB125932C9AB64200032AF3 /* AiThermostatSettings.storyboard */,
+				9FD5BD192C980EFF007A9754 /* Thermostat.storyboard */,
 				9FE8F0012C976F0E00EB2AFF /* Info.plist */,
+				9F9740A52C9CDF2400D2FA3C /* ThermostatModel.mlmodel */,
 			);
 			path = energymanagementstoryboard;
 			sourceTree = "<group>";
@@ -125,6 +170,14 @@
 				9FE8F0162C976F0E00EB2AFF /* energymanagementstoryboardUITestsLaunchTests.swift */,
 			);
 			path = energymanagementstoryboardUITests;
+			sourceTree = "<group>";
+		};
+		9FE8F0232C9773CF00EB2AFF /* image */ = {
+			isa = PBXGroup;
+			children = (
+				9FB6E2E62CA5D550002DAB2A /* circleGreen-Photoroom.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +284,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F01695C2C98C74900A8F7F8 /* HomeStoryBoard.storyboard in Resources */,
+				9FD5BD1A2C980EFF007A9754 /* Thermostat.storyboard in Resources */,
+				9FB125922C9A112100032AF3 /* AiThermostat.storyboard in Resources */,
 				9FE8EFFD2C976F0E00EB2AFF /* Assets.xcassets in Resources */,
+				9F67ED212CA00EE100E5140B /* stop.txt in Resources */,
+				9FB6E2E52CA5D4F8002DAB2A /* SmartSuggestionStoryBoard.storyboard in Resources */,
+				9FB125942C9AB64200032AF3 /* AiThermostatSettings.storyboard in Resources */,
+				9FB6E2E72CA5D550002DAB2A /* circleGreen-Photoroom.png in Resources */,
 				9FE8F0002C976F0E00EB2AFF /* Base in Resources */,
-				9FE8EFFB2C976F0D00EB2AFF /* Base in Resources */,
+				9FC2DC3B2C9CD52C00725F3F /* save.txt in Resources */,
+				9FA0BBB82C98A73500637FE0 /* NoaiThermostat.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +319,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FDC8ED42C9B7EB00093B7D2 /* FileUtility.swift in Sources */,
 				9FE8EFF82C976F0D00EB2AFF /* ViewController.swift in Sources */,
+				9F9740A62C9CDF2400D2FA3C /* ThermostatModel.mlmodel in Sources */,
 				9FE8EFF42C976F0D00EB2AFF /* AppDelegate.swift in Sources */,
+				9FB6E2E12CA5D4C1002DAB2A /* SmartSuggestionsViewController.swift in Sources */,
+				9F01695A2C98C57C00A8F7F8 /* Home.swift in Sources */,
+				9FB125902C9A111000032AF3 /* AiThermoView.swift in Sources */,
 				9FE8EFF62C976F0D00EB2AFF /* SceneDelegate.swift in Sources */,
+				9FB125962C9AB64D00032AF3 /* AiThermostatSettingsView.swift in Sources */,
+				9FA0BBBC2C98A7F700637FE0 /* NoAiThermoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,20 +365,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9FE8EFF92C976F0D00EB2AFF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9FE8EFFA2C976F0D00EB2AFF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		9FE8EFFE2C976F0E00EB2AFF /* LaunchScreen.storyboard */ = {
+		9FE8EFFE2C976F0E00EB2AFF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				9FE8EFFF2C976F0E00EB2AFF /* Base */,
 			);
-			name = LaunchScreen.storyboard;
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -372,6 +432,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
@@ -429,6 +490,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
@@ -442,6 +504,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NC6BV96GB7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = energymanagementstoryboard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -469,6 +532,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NC6BV96GB7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = energymanagementstoryboard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
