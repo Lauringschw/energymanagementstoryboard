@@ -26,7 +26,7 @@ The integration of AI in this system provides several benefits:
 To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/energymanagementstoryboard.git
+   git clone https://github.com/Lauringschw/energymanagementstoryboard.git
    ```
 2. Open the project in Xcode (or your preferred IDE).
 3. Install any required dependencies.
